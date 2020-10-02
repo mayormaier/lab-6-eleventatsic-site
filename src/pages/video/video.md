@@ -6,6 +6,11 @@ permalink: /video/
 eleventyNavigation:
   key: Video
 ---
-# {{title}}
+<div class="container">
 
-{{description}}
+  # {{title}}
+
+  {{description}}
+
+  <br>
+</div>
