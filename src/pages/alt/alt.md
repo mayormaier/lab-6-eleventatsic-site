@@ -1,5 +1,5 @@
 ---
-title: Alternitives and Reasoning
+title: Alternatives and Reasoning
 description: This explains why I chose 11ty over some other static site generators.
 layout: base
 permalink: /alt/
