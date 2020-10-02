@@ -19,4 +19,8 @@ eleventyNavigation:
   <br>
 
   If you’re interested in getting your own static site set up, you can find all the information on how to get started [on the 11ty website](https://www.11ty.dev). They have a great quick start guide that will get help setup a basic website with no bells and whistles. If you're looking for something more advanced, they also have a collection of [starter projects](https://www.11ty.dev/docs/starter/) that have a larger codebase with some more advanced layout and styling. I used the "eleventastic" starter project for this site. You can find the GitHub repository for that project on the bottom right of this website.  
+
+  <br>
+
+  Hello! This is an update!
 </div>
